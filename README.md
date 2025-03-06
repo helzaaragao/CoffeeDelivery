@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
-<img src="./src/assets/fotoOficialProjeto.png"/>
+<img src="./src/assets/fotoProjeto.png"/>
  
 Uma página web que gerencia um carrinho de compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:
 - Listagem de produtos (cafés) disponíveis para compra
