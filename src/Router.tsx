@@ -7,11 +7,11 @@ import { PedidoConfirmado } from "./pages/PedidoConfirmado";
 export function Router(){
     return(
         <Routes>
-            <Route path="/" element={<DefaultLayout></DefaultLayout>}>
+            <Route path="/<CoffeDelivery>" element={<DefaultLayout></DefaultLayout>}>
             
-               <Route path="/" element={<Home></Home>}></Route>
-               <Route path="/cart" element={<Cart/>}></Route>
-               <Route path="/order/:orderId/success" element={<PedidoConfirmado/>}></Route>
+               <Route path="/<CoffeDelivery>" element={<Home></Home>}></Route>
+               <Route path="/<CoffeDelivery>/cart" element={<Cart/>}></Route>
+               <Route path="/<CofeeDelivery>/order/:orderId/success" element={<PedidoConfirmado/>}></Route>
             </Route>
         </Routes>
     )
