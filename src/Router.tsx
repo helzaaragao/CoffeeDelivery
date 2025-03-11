@@ -9,9 +9,9 @@ export function Router(){
         <Routes>
             <Route path="/<CoffeDelivery>" element={<DefaultLayout></DefaultLayout>}>
             
-               <Route path="/<CoffeDelivery>" element={<Home></Home>}></Route>
-               <Route path="/<CoffeDelivery>/cart" element={<Cart/>}></Route>
-               <Route path="/<CofeeDelivery>/order/:orderId/success" element={<PedidoConfirmado/>}></Route>
+               <Route path="/CoffeDelivery" element={<Home></Home>}></Route>
+               <Route path="/CoffeDelivery/cart" element={<Cart/>}></Route>
+               <Route path="/CofeeDelivery/order/:orderId/success" element={<PedidoConfirmado/>}></Route>
             </Route>
         </Routes>
     )

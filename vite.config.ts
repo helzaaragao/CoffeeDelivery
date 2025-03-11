@@ -1,7 +1,15 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-})
+  base: '/CoffeeDelivery/', // Adicione o nome do repositório do GitHub Pages aqui
+  build: {
+    outDir: 'dist', // Certifique-se de que o diretório de saída seja 'dist'
+    rollupOptions: {
+      input: {
+        main: './index.html', // Especifique o arquivo de entrada
+      },
+    },
+  },
+});
