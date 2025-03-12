@@ -16,41 +16,35 @@ Uma página web que gerencia um carrinho de compras de uma cafeteria fictícia, 
 - Exibir o total de itens no carrinho no Header
 - Exibir o valor total da soma de itens no carrinho multiplicados pelo valor
 
+## 📌 Desafios enfrentados 📌
+
+Construir o componente card e a pasta reducers
+
+O projeto rodar no github pages com os caminhos corretos que eu tinha definido na aplicação.
+
 ## Dependências e Versões Utilizadas
-- React: ^18.2.0
-- Typescript: ^5.2.2
-- Vite: ^5.2.0
-- Styled-components: ^6.1.11
-<div>
-  <img src="https://phosphoricons.com/favicon-512.png" style="width:45px;"/>
-  @phosphor-icons/react: ^2.1.5
-</div>
+React: 18.2.0 | Typescript: 5.2.2 | Vite: 5.2.0 | Styled-components: 6.1.11 | Phosphor-icons/react: 2.1.5
 
-## Como rodar o projeto ✅
+### Como rodar o projeto na sua máquina local✅
 
-Primeiro você vai clonar esse repositório para sua máquina local
+OBS: é preciso já ter instalado o node, vscode ou um terminal da sua preferência para executar os comandos!
+
+Clone esse repositório para os seus arquivos:
 ```
 git clone https://github.com/helzaaragao/CoffeeDelivery.git
 ```
 
-Depois, vá até a pasta que você acabou de criar com o git clone:
+Depois, vá até a pasta que você acabou com o comando anterior:
 
 ```
 cd "CoffeeDelivery"
 ```
-E instale todas as depedências e versões certas:
+E instale todas as depedências e versões utilizadas por esse projeto:
 
 ```
 npm install
 ```
 Finalmente, rode no seu localhost:
-```
-npm run dev
-```
-
-Precisa ter o node, vscode ou um terminal para executar os comandos
-
-
 ```
 npm run dev
 ```
