@@ -84,8 +84,10 @@ export const CoffeeList = styled.section`
    > div {
      display: grid; 
      grid-template-columns: 1fr 1fr 1fr 1fr;
-     grid-row-gap: 1.8rem; 
+     grid-row-gap: 1.9rem; 
      grid-column-gap: 1.5rem;
+     margin-top: 2rem;
+    
    }
 `
 

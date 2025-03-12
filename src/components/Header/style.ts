@@ -1,11 +1,11 @@
 import styled from 'styled-components'
 
 export const HeaderContainer = styled.header`
-    width: 100vw;
+    width: 100%;
     display: flex; 
     align-items: center;
     justify-content: space-between; 
-     padding: 2rem 12rem 2rem 12rem; 
+    padding: 2rem 12rem 2rem 12rem; 
  
 
     nav{
