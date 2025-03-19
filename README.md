@@ -8,7 +8,7 @@
 
 Uma página **desktop** web que gerencia um carrinho de compras de uma cafeteria fictícia, desenvolvida com base no design disponibilizado pela Rocketseat durante o curso de ReactJS.
 
-<img src="./src/assets/fotoProjeto.png"/>*Imagem meramente ilustrativa, pois ela muda dependendo do tamanho da tela do seu computador!
+<img src="./src/assets/fotoProjeto.png"/>*Imagem meramente ilustrativa, pois ela mudar dependendo do tamanho da tela do seu computador!
  
 
 ## 🚀 Funcionalidades
