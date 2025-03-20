@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
-Uma página **desktop** web que gerencia um carrinho de compras de uma cafeteria fictícia, desenvolvida com base no design disponibilizado pela Rocketseat durante o curso de ReactJS.
+Uma página **desktop** web que gerencia um carrinho de compras de uma cafeteria fictícia, desenvolvido com base no design disponibilizado pela Rocketseat durante o curso de ReactJS.
 
 <img src="./src/assets/fotoProjeto.png"/>*Imagem meramente ilustrativa, pois ela mudar dependendo do tamanho da tela do seu computador!
  
