@@ -13,11 +13,11 @@ Uma página **desktop** web que gerencia um carrinho de compras de uma cafeteria
 
 ## 🚀 Funcionalidades
 
-- Listagem de produtos: Exibe os cafés disponíveis para compra.
-- Adicionar itens ao carrinho: Permite adicionar uma quantidade específica de cada item.
-- Formulário de endereço: Coleta o endereço do usuário para finalizar a compra.
-- Contador de itens: Exibe o total de itens no carrinho diretamente no Header.
-- Cálculo do valor total: Mostra o valor total da soma dos itens no carrinho, multiplicados pelo preço unitário.
+- **Listagem de produtos**: Exibe os cafés disponíveis para compra.
+- **Adicionar itens ao carrinho**: Permite adicionar uma quantidade específica de cada item.
+- **Formulário de endereço**: Coleta o endereço do usuário para finalizar a compra.
+- **Contador de itens**: Exibe o total de itens no carrinho diretamente no Header.
+- **Cálculo do valor total**: Mostra o valor total da soma dos itens no carrinho, multiplicados pelo preço unitário.
 
 ## 📌 Desafios enfrentados 
 
